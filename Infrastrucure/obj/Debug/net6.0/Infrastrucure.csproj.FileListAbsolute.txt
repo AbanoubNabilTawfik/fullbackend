@@ -1,0 +1,17 @@
+E:\Tasks\Full Project\Infrastrucure\obj\Debug\net6.0\Infrastrucure.csproj.AssemblyReference.cache
+E:\Tasks\Full Project\Infrastrucure\obj\Debug\net6.0\Infrastrucure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tasks\Full Project\Infrastrucure\obj\Debug\net6.0\Infrastrucure.AssemblyInfoInputs.cache
+E:\Tasks\Full Project\Infrastrucure\obj\Debug\net6.0\Infrastrucure.AssemblyInfo.cs
+E:\Tasks\Full Project\Infrastrucure\obj\Debug\net6.0\Infrastrucure.csproj.CoreCompileInputs.cache
+E:\Tasks\Full Project\Infrastrucure\bin\Debug\net6.0\Infrastrucure.deps.json
+E:\Tasks\Full Project\Infrastrucure\bin\Debug\net6.0\Infrastrucure.runtimeconfig.json
+E:\Tasks\Full Project\Infrastrucure\bin\Debug\net6.0\Infrastrucure.dll
+E:\Tasks\Full Project\Infrastrucure\bin\Debug\net6.0\Infrastrucure.pdb
+E:\Tasks\Full Project\Infrastrucure\bin\Debug\net6.0\Core.dll
+E:\Tasks\Full Project\Infrastrucure\bin\Debug\net6.0\Core.pdb
+E:\Tasks\Full Project\Infrastrucure\obj\Debug\net6.0\Infrastrucure.csproj.CopyComplete
+E:\Tasks\Full Project\Infrastrucure\obj\Debug\net6.0\Infrastrucure.dll
+E:\Tasks\Full Project\Infrastrucure\obj\Debug\net6.0\refint\Infrastrucure.dll
+E:\Tasks\Full Project\Infrastrucure\obj\Debug\net6.0\Infrastrucure.pdb
+E:\Tasks\Full Project\Infrastrucure\obj\Debug\net6.0\Infrastrucure.genruntimeconfig.cache
+E:\Tasks\Full Project\Infrastrucure\obj\Debug\net6.0\ref\Infrastrucure.dll
